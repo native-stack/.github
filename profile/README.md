@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/native-stack/.github/main/profile/native-stack-logo.png" width="200" alt="Native Stack Logo" />
+  <img src="https://raw.githubusercontent.com/native-stack/.github/main/profile/native-stack-logo-sym.png" width="200" alt="Native Stack Logo" />
   <h1>Native Stack</h1>
   <p><b>Native Performance via Minimal Abstraction.</b></p>
 
