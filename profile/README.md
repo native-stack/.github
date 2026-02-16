@@ -19,7 +19,7 @@ A curated set of zero-dependency, high-performance primitives built for the mode
 | :--- | :--- | :--- | :--- |
 | **[`@native-stack/nano`](https://github.com/native-stack/nano)** | `v1.0.0` | **State** | ACID-compliant, persistent state machine for AI Agents. |
 | **[`@native-stack/stream-sql`](https://github.com/native-stack/stream-sql)** | `v1.0.0` | **Flow** | High-velocity Writable streams for native SQLite ingestion. |
-| **`@native-stack/vault`** | `Coming Soon` | **Security** | Zero-dependency encrypted storage for sensitive agent memory. |
+| **[`@native-stack/vault`](https://github.com/native-stack/vault)** | `Coming Soon` | **Security** | Zero-dependency encrypted storage for sensitive agent memory. |
 
 ---
 
